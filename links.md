@@ -35,3 +35,9 @@ JS：[js闭包底层机制](http://blog.leapoahead.com/2015/09/15/js-closure/)
 ### 2016-10-20
 
 工具类：[我终于弄懂了前端各种build工具](https://www.sdk.cn/news/5412)
+
+### 2016-11-02
+工具类：[青骓-gulp学习总结](http://blog.qingzhui.net/post/learn-gulp.html)
+
+### 2016-11-06
+JSON：[JSON字符串和JSON对象](http://www.haorooms.com/post/js_jsons_h)
